@@ -9,7 +9,7 @@ In each repository I will cover one fundamental step needed to make the app.
 **List of repository in the series and their goal:
 1. This is the first repository.
    - Here I will create the most basic version of the model.
-   - For a demo model I have created my own synthetic data for three sign language charachters: A, B and C
+   - For a demo model I have created my own synthetic data for three sign language charachters: A, B and L
    - Then I have collected hand landmarks coordinates of each image using [mediapipes](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python)
    - Then I have created a pickle dataset with hand landmark coordinate of each hand and its label.
    - Then I have used scikit-learn's randomForrestClassifier() to train the model and saved the model as model.p file.
