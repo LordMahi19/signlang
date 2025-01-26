@@ -1,12 +1,12 @@
-#Sign language charachter prediction
+##Sign language charachter prediction
 
-**Overview
+**Overview**
 
 This is the first repository in a series of repository where I will create an android app that runs a machine learning model locally to predict sign language charachters in real time from hand gestures shown in live camera feed. 
 
 In each repository I will cover one fundamental step needed to make the app.
 
-**List of repository in the series and their goal:
+**List of repository in the series and their goal:**
 1. This is the first repository.
    - Here I will create the most basic version of the model.
    - For a demo model I have created my own synthetic data for three sign language charachters: A, B and L
@@ -30,7 +30,7 @@ In each repository I will cover one fundamental step needed to make the app.
    - Used the .tflite model.
    - created labels.txt that has all the labels with one label per line in the same order as it was during the training.
 
-**Running the model:
+**Running the model:**
 First install all the required dependancy libraries
  ```bash
  pip install -r requirements.txt
