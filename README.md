@@ -1,4 +1,4 @@
-##Sign language charachter prediction
+# Sign language charachter prediction
 
 **Overview**
 
